@@ -1,8 +1,8 @@
 # Scheduler
 
 ## Run the project 
-mvn compile
-mvn exec:java -Dexec.mainClass= "todo.example.App"
+- mvn compile
+- mvn exec:java -Dexec.mainClass= "todo.example.App"
 
 
 ## Must add

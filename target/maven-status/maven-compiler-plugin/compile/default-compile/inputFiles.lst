@@ -1,3 +1,9 @@
 /home/kido/projects/todo/todo/src/main/java/todo/example/App.java
+/home/kido/projects/todo/todo/src/main/java/todo/example/PersonalTask.java
 /home/kido/projects/todo/todo/src/main/java/todo/example/Task.java
 /home/kido/projects/todo/todo/src/main/java/todo/example/TaskManager.java
+/home/kido/projects/todo/todo/src/main/java/todo/example/TaskNotFoundException.java
+/home/kido/projects/todo/todo/src/main/java/todo/example/WorkTask.java
+/home/kido/projects/todo/todo/src/main/java/todo/example/dataGathering/Status.java
+/home/kido/projects/todo/todo/src/main/java/todo/example/dataGathering/Umportance.java
+/home/kido/projects/todo/todo/src/main/java/todo/example/dataGathering/Urgency.java
